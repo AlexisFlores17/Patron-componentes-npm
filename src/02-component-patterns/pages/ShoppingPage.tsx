@@ -1,7 +1,6 @@
 
 import { ProductCard,ProductButtons,ProductImage, ProductTitle} from "../components";
 import { products } from "../data/products";
-import '../styles/customs-styles.css';
 
 
 const product = products[0];
